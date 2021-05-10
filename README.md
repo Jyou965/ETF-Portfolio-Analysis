@@ -35,7 +35,11 @@ https://user-images.githubusercontent.com/80657579/117703575-a8262580-b17e-11eb-
 
 ]
 
+[
 
+https://user-images.githubusercontent.com/80657579/117704358-9e50f200-b17f-11eb-8fcd-bc69ebaeac21.mov
+
+]
 
 By working with SQL database, the ability to understand portfolio performance is much enhanced.
 
