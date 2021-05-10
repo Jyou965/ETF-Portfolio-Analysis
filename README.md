@@ -29,8 +29,11 @@ This application works with SQL database in the following steps:
 3. Analyze the ETF portfolio
 
 4. Deploy the notebook as a web application - see the two-part video below:
+[
+
 https://user-images.githubusercontent.com/80657579/117703575-a8262580-b17e-11eb-9a20-887cc4ddb932.mov
 
+]
 
 
 
