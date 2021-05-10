@@ -29,7 +29,7 @@ This application works with SQL database in the following steps:
 3. Analyze the ETF portfolio
 
 4. Deploy the notebook as a web application - see video below
- ![voila](https://github.com/Jyou965/ETF-Portfolio-Analysis/blob/main/Voila.mov)
+    ![voila](https://github.com/Jyou965/ETF-Portfolio-Analysis/blob/main/Voila.mov)
 
 By working with SQL database, the ability to understand portfolio performance is much enhanced.
 
